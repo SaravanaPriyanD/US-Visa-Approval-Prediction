@@ -3,6 +3,7 @@ Test commit2
 CICD added
 Updated MONGODB URL in Githyb secrets
 rerun .run.sh in EC2
+delete docker images
 
 # US-Visa-Approval-Prediction
 
